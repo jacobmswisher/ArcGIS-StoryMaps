@@ -28,5 +28,4 @@ After completing this workshop, you will be able to:
 2. [Creating Your First StoryMap](https://github.com/jacobmswisher/ArcGIS-StoryMaps/blob/main/Sections/Part%203%20-%20Creating%20Your%20First%20StoryMap.md)
 4. [Resources](https://github.com/jacobmswisher/ArcGIS-StoryMaps/blob/main/Sections/Part%204%20-%20Resources.md)
 
-[Get Started >>>](https://github.com/jacobmswisher/ArcGIS-StoryMaps/blob/main/Sections/Part%201%20-%20ArcGIS%20StoryMaps%20-%20An%20Overview.md)  
-[Get Started >>>](jacobmswisher.github.io/ArcGIS-Field-Maps/Sections/Part 1 - ArcGIS Field Maps - An Overview.md)
+[Get Started >>>](https://github.com/jacobmswisher/ArcGIS-StoryMaps/blob/main/Sections/Part%201%20-%20ArcGIS%20StoryMaps%20-%20An%20Overview.md)
